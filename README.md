@@ -10,9 +10,8 @@ Desenvolvi este projeto durante o curso **🛡DevQuest🛡**. O desafio era cria
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/74621925/180302089-b6cf89eb-b41a-4e44-9706-c2bdec45f55c.png" width="80%" />
+   <p><b>🔎 Acesse a página no <a href="https://gabrielhamdan.github.io/formulario-HTML-CSS-JS/" target="_blank">GitHub Pages</a>!</b></p>
 </div>
-
-🔎 **Acesse a página no [GitHub Pages](https://gabrielhamdan.github.io/formulario-HTML-CSS-JS/)!**
 
 ## 🛠 Tecnologias utilizadas
 <p>
